@@ -1,0 +1,1 @@
+D:\code\cs_stack\test_Stack\test_Stack\bin\Debug\test_Stack.exe.config
